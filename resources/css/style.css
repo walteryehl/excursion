@@ -8,7 +8,21 @@ html {
   font-size: 50px;
   color: white;
 }
+.smaller-header {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
 .download-link {
   color: aquamarine;
   font-size: 16px;
+}
+.grey-text {
+  color: grey;
+}
+#footer {
+  text-align: right;
+}
+#benefit-text {
+  font-size: 21px;
 }
